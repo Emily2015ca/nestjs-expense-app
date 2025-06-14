@@ -1,4 +1,8 @@
 <p align="center">
+  <a href="https://www.udemy.com/course/the-nest-js-bootcamp-complete-developer-guide/" target="blank">The Nest JS Bootcamp - Complete Developer Guide</a>
+</p>
+
+<p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
 
