@@ -1,12 +1,12 @@
-## Practice nestJs
-
 <p align="center">
   <a href="https://www.udemy.com/course/the-nest-js-bootcamp-complete-developer-guide/" target="blank">The Nest JS Bootcamp - Complete Developer Guide</a>
 </p>
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Practice nestJs
+
+
 
 ## Project setup
 
